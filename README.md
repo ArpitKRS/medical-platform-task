@@ -13,19 +13,16 @@ This project is a medical platform designed to streamline healthcare processes, 
 
 ## Technologies Used
 
-- Backend: (e.g., Node.js, Express, Django, etc.)
-- Frontend: (e.g., React, Angular, Vue, etc.)
-- Database: (e.g., MongoDB, PostgreSQL, MySQL, etc.)
-- Authentication: (e.g., JWT, OAuth)
-- Other: (List any additional libraries or frameworks)
+- Backend: (Node.js)
+- Frontend: (React)
+- Complete in NextJS
 
 ## Getting Started
 
 ### Prerequisites
 
-- Node.js (vXX.X.X) / Python (vX.X.X) / etc.
-- npm / yarn / pip / etc.
-- Database server (if required)
+- Node.js
+- npm / yarn.
 
 ### Installation
 
