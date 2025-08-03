@@ -41,7 +41,7 @@ This project is a medical platform designed to streamline healthcare processes, 
 
 4. Run the development server:
     ```sh
-    npm start
+    npm run dev
     ```
 
 ## Usage
