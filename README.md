@@ -35,10 +35,6 @@ This project is a medical platform designed to streamline healthcare processes, 
     ```sh
     npm install
     ```
-    or
-    ```sh
-    pip install -r requirements.txt
-    ```
 
 3. Set up environment variables:
     - Copy `.env.example` to `.env` and update the values as needed.
@@ -46,10 +42,6 @@ This project is a medical platform designed to streamline healthcare processes, 
 4. Run the development server:
     ```sh
     npm start
-    ```
-    or
-    ```sh
-    python manage.py runserver
     ```
 
 ## Usage
